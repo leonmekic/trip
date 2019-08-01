@@ -1,0 +1,12 @@
+{
+    "name": "leon/trip",
+    "description": "This is a demo package",
+    "authors": [
+        {
+            "name": "Tony lea",
+            "email": "tony@devdojo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
